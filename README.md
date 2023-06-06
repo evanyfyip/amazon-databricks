@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-repo.git
+   git clone https://github.com/your-username/amazon-databricks.git
    ```
 
 2. Set up Azure Databricks:
