@@ -8,7 +8,7 @@ The Amazon dataset used in this project contains information about products, cus
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Analysis](#data-analysis)
+- [Analysis](#analysis)
 - [Queries](#queries)
 - [Contributing](#contributing)
 - [License](#license)
